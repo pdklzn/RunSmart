@@ -6,7 +6,7 @@
   <li>Jquery:</li>
   <li>Firebase:
     <ul>
-      database: getDatabase, get, set, push, ref
+      database: getDatabase, get, set, push, ref <br>
       storage: getStorage, ref, uploadBytesResumable, getDownloadURL
     </ul>
   </li>
