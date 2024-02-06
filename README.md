@@ -8,7 +8,7 @@
     <ul>
       database: getDatabase, get, set, push, ref
       storage: getStorage, ref, uploadBytesResumable, getDownloadURL
-    <ul>
+    </ul>
   </li>
   <li>Slick slider</li>
   <li>Animation wowjs</li>
